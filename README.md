@@ -25,10 +25,11 @@
  <img src="https://github.com/Mano181/GitImages/blob/main/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://github.com/Mano181/GitImages/blob/main/heroku.png" alt="Heroku" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 </p>
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mano181&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mano181&theme=flag-india)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mano181&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mano181&show_icons=true&theme=flag-india)
 <!---
 Mano181/Mano181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
