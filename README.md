@@ -12,6 +12,9 @@
 - 📫 You can  reach me on smano812001@gmail.com
 
 
+
+
+
 <b><h3>Languages and Tools:</h3></b>
 <p align="center">
 <img src="https://github.com/Mano181/GitImages/blob/main/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
@@ -23,8 +26,9 @@
  <img src="https://github.com/Mano181/GitImages/blob/main/heroku.png" alt="Heroku" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mano181&theme=tokyonight)
 
-   ![](https://visitor-badge.laobi.icu/badge?page_id=Mano181.Mano181)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mano181&show_icons=true&theme=tokyonight)
 <!---
 Mano181/Mano181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
