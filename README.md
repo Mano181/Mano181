@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working in Heart Disease Predicition project
 - 👀 I’m interested in Datascience
-- 🌱 I’m currently learning Bachelor of Technology(Information Technology)
+- 🌱 I’m currently pursuing Bachelor of Technology(Information Technology)
 - 💞️ I’m looking to collaborate on Datascience and Machine Learning projects
 - 📫 You can  reach me on smano812001@gmail.com
 
