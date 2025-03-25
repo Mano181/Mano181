@@ -5,10 +5,6 @@
   <a href="https://twitter.com/Mano23900799?s=08" target="_blank" rel="noopener noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.hackerrank.com/manosri812001" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
-- 🔭 I'm currently working in Crop Reccommendation System
-- 👀 I’m interested in Datascience
-- 🌱 I’m currently pursuing Bachelor of Technology(Information Technology)
-- 💞️ I’m looking to collaborate on Datascience and Machine Learning projects
 - 📫 You can  reach me on smano812001@gmail.com
 
 <b><h3>Languages and Tools:</h3></b>
